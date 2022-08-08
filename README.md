@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @neezzzy
+- 👋 Hi, I’m @neezzzy 
+- 😎 My portfolio <https://neezzzy.github.io/>
 - 👀 I’m interested in finding a job as a Web Developer.
-- 🌱 I’m currently learning React, React Native, JS, Node, MongoDB, MySQL, Python, Flask.
+- 🌱 I’m currently learning NextJs, GraphQL, Typescript, Prisma.
 - 💞️ I’m looking to collaborate on Open Source Projects.
