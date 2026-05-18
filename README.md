@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Russell Nizamov
 
-I'm a **Web Developer & Designer** focused on building practical, user-friendly web experiences.
+I'm a developer focused on building practical web apps, dashboards, and workflow tools that solve real operational problems.
 
-My background combines **education, program operations, and software development**, which helps me build tools that are clear, usable, and connected to real-world needs.
+My background combines program operations, education, reporting, and software development. That gives me a practical perspective: I build tools that are not only functional, but clear, usable, and connected to real workplace needs.
 
 ## 🔗 Portfolio
 
@@ -10,39 +10,41 @@ My background combines **education, program operations, and software development
 
 ## 🛠️ What I Work With
 
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
-- **Backend:** Node.js, PHP, Flask
-- **Other:** Python, GitHub Pages, AI-assisted development, LLM tools
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap  
+**Mobile / Apps:** Expo, React Native  
+**Backend:** Node.js, PHP, Flask  
+**Data / Tools:** Python, SQLite, Git, GitHub Pages  
+**Current Focus:** AI-assisted development, local-first apps, dashboards, workflow automation, and LLM tools
 
 ## 🚀 Featured Projects
 
-- **BrainyCanuck** — Canadian Citizenship test prep app with 100+ flashcards  
-- **Chatter App** — Real-time chat application  
-- **Crypto Dashboard** — Dashboard with live-style charting and data display  
-- **Campus Connect** — Marketplace concept for students and companies  
-- **Microlearning: Windows Server Fundamentals** — Interactive learning module hosted on GitHub Pages  
+- **JobOps** — Local-first job search operations app for tracking applications, resume versions, follow-ups, and backups.
+- **AI Meeting Intelligence Tool** — Transcript analysis tool for extracting summaries, action items, decisions, and risks.
+- **ParkWise BC** — Parking sign interpretation tool that translates confusing parking rules into plain English.
+- **BrainyCanuck** — Canadian citizenship test prep app with 100+ flashcards.
+- **Crypto Dashboard** — Dashboard project with charting and data display.
+- **Microlearning: Windows Server Fundamentals** — Interactive learning module hosted on GitHub Pages.
 
-See more on my portfolio:  
+See more projects here:  
 👉 [neezzzy.github.io](https://neezzzy.github.io/)
 
-## 🌱 Currently Learning
-
-I'm currently improving my skills in:
+## 🌱 Currently Improving
 
 - AI-assisted coding workflows
-- Large Language Models
-- Better frontend design patterns
-- Practical web apps that solve real problems
+- Local-first application design
+- React and TypeScript project architecture
+- Dashboard and data visualization patterns
+- Practical automation tools for real workflows
 
 ## 🤝 Open To
 
 - Web development roles
 - Frontend or junior full-stack opportunities
+- Business systems / operations technology roles
 - Open-source collaboration
-- Projects involving education, automation, dashboards, or user-friendly tools
+- Projects involving education, automation, dashboards, or workflow tools
 
 ## 📫 Connect With Me
 
-- Portfolio: [https://neezzzy.github.io/](https://neezzzy.github.io/)
-- GitHub: [@neezzzy](https://github.com/neezzzy)
-- LinkedIn: Add your LinkedIn link here
+**Portfolio:** [https://neezzzy.github.io/](https://neezzzy.github.io/)  
+**GitHub:** [@neezzzy](https://github.com/neezzzy)
